@@ -1,4 +1,0 @@
-hindsight-client==0.10.1
-streamlit
-python-dotenv
-groq
