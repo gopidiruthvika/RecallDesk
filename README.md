@@ -155,7 +155,7 @@ Template showing the environment variables required by the application.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shivanireddy445/RecallDesk.git
+git clone https://github.com/gopidiruthvika/RecallDesk.git
 cd RecallDesk
 ```
 
